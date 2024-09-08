@@ -1,5 +1,12 @@
 # Исследование исторических данных о продажах игр, оценках пользователей и экспертов, жанрах и платформах
 
+<div>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" title="python" alt="python" width="100" height="40"/>&nbsp
+  <img src="https://pandas.pydata.org/static/img/pandas.svg" title="pandas" alt="pandas" width="100" height="40"/>&nbsp
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="100" height="40"/>&nbsp
+  <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="matplotlib" alt="matplotlib" width="100" height="40"/>&nbsp
+</div>
+
 **Цели исследования:**
 
 1. Выявления потенциально успешных рыночных сегментов.
